@@ -27,6 +27,10 @@ Product.init(
         is: /^([0-9])*$/
       }      
     },
+    stock: {
+      type: DataTypes.STRING,
+      allowNull: true 
+    },
     category_id: {
       type: DataTypes.INTEGER,
       references: {
