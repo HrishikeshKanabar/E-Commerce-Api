@@ -26,11 +26,11 @@
 
 Schema Diagram      
 :--------------------------------:|
-![App Start]()  
+![App Start](https://github.com/HrishikeshKanabar/E-Commerce-Api/blob/main/assets/Scema-ecom.JPG)  
 
- App Start view in insomia       
+ App view in insomia       
 :--------------------------------:|
-![App Start]()      
+![App Start](https://github.com/HrishikeshKanabar/E-Commerce-Api/blob/main/assets/In-api.JPG)      
 
 
 ## Requirement achieved 
